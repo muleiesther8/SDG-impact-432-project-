@@ -1,49 +1,43 @@
-# 🌍 432 Impact
+# SDG 4: Quality Education 🌍📚
 
-Hackathon Project aligned with **SDG 4 (Quality Education)**,  
-**SDG 3 (Good Health & Well-being)**, and **SDG 2 (Zero Hunger)**.
-
----
-
-## 🚀 Project Overview
-Children in underserved communities often face **hunger, poor health, and limited access to quality education**.  
-These three challenges are deeply interconnected:  
-- Hunger impacts focus and learning.  
-- Poor health reduces school attendance.  
-- Lack of education limits future opportunities.  
-
-**432 Impact** is an integrated platform that tackles all three at once.
+## Overview
+This project was built for the Hackathon to address **Sustainable Development Goal 4: Quality Education**.  
+Our aim is to ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
 
 ---
 
-## 💡 Solution
-1. **Nutritious Meals (SDG 2)** – school feeding program powered by local farmers.  
-2. **Health Monitoring (SDG 3)** – basic checkups and wellness tracking in schools.  
-3. **Digital Learning Hubs (SDG 4)** – low-cost, solar-powered e-learning with offline content.  
+## Problem Statement
+Millions of learners, especially in underserved communities, lack access to quality learning resources.  
+This inequality creates barriers to personal growth, employment, and innovation.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** React / Next.js  
-- **Backend:** Node.js / Express  
-- **Database:** Firebase / MongoDB  
-- **Deployment:** Vercel / Netlify / Render  
+## Our Solution 🚀
+We created a **Digital Learning Hub** that provides:
+- Free educational resources
+- Online mentorship and guidance
+- Interactive and engaging tools for learners
+- A platform that works on both desktop and mobile
 
 ---
 
-## 🌱 Impact
-- Improves school attendance & performance.  
-- Promotes community health.  
-- Supports local farmers.  
-- Breaks the poverty cycle by combining **food + health + education**.  
+## Impact
+- Reduce the education gap in marginalized areas  
+- Promote self-learning and digital literacy  
+- Empower communities through better access to knowledge  
 
 ---
 
-## 📊 SDG Alignment
-- **SDG 2:** Zero Hunger – feeding program.  
-- **SDG 3:** Good Health – health checkups & wellness.  
-- **SDG 4:** Quality Education – digital learning hubs.  
+## Tech Stack 🛠️
+- **HTML5** – structure of the site  
+- **CSS3** – styling and design  
+- **JavaScript** – interactivity  
 
 ---
 
-## 📂 Repository Structure
+## Deployment
+👉 [Live Demo Link](#) – hosted on Netlify  
+
+---
+
+## Repository Structure# 
